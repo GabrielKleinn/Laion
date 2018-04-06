@@ -1,1 +1,1 @@
-worker node bot.js Laion
+worker node bot.js
